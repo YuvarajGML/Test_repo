@@ -9,6 +9,7 @@ int main(){
     int c = 4 ; 
     int* p  = c ;
     // this is being modified
+    printf("now changing without commit history ");
     
 }
 =======
